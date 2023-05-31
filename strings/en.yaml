@@ -1,2 +1,3 @@
-some:
-  strings: "Hello, World!"
+error:
+  no_link: "Send link"
+  not_supported_type: "Not Supported Type"
