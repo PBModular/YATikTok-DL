@@ -1,1 +1,3 @@
-{}
+error:
+  no_link: Отправь ссылку
+  not_supported_type: Этот тип не поддерживается
